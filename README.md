@@ -8,7 +8,7 @@ IDS:
 
 3. projekt: 5/5
 
-4. + 5. projekt: 14/14 (bez rozšíření)
+4. projekt: 14/14 (bez rozšíření)
  
 IPP:
 
